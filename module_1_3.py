@@ -1,11 +1,11 @@
 name = "Nikita"
-print (name)
+print ("Name:", name)
 
 age = 31
-print (age)
+print ("Age:", age)
 
 new_age = 2
-print (age + new_age)
+print ("New age:", age + new_age)
 
-bool("is_student")
-print (bool("is_student"))
+is_student = True
+print("Is Student:", is_student)
